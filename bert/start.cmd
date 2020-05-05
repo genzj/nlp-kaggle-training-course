@@ -19,6 +19,5 @@ python run_classifier.py ^
 	--optimizer=adamw ^
 	--save_checkpoints_steps=100 ^
 	--task_name=spooky ^
-	--train_batch_size=32 ^
-	--train_step=1000 ^
+	--train_batch_size=50 ^
 	--vocab_file=%PRETRAINED%/vocab.txt
