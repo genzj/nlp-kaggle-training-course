@@ -1,0 +1,4 @@
+output_*/
+bert_*.json
+bert_model.*
+vocab.txt
